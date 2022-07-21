@@ -1,0 +1,18 @@
+{
+
+  "Prefix": "?",
+  
+  "Users": {
+    "OWNERS": ["put your account id"]
+  },
+
+  "Handlers": {
+    "MONGO": "mongo URL"
+  },
+  
+  "Client": {
+    "TOKEN": "put your token here",
+    "ID": "put your ID here"
+  }
+  
+}
